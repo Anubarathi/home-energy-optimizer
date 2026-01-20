@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # Page Config
 # ---------------------------
 st.set_page_config(page_title="Home Energy Usage Optimizer", layout="wide")
-st.title("🏡 AI-Powered Home Energy Usage Optimizer")
+st.title(" AI-Powered Home Energy Usage Optimizer")
 st.markdown("Predict your home electricity usage and see potential savings!")
 
 # ---------------------------
