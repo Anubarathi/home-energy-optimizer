@@ -19,7 +19,7 @@ This is a **Streamlit app** that predicts your next hour's energy usage and help
 ## Demo
 
 You can try the app live here:  
-[**Streamlit Cloud Demo Link**](YOUR_STREAMLIT_LINK)
+[**Streamlit Cloud Demo Link**]https://bmk5nfduseai9apcngmrec.streamlit.app/
 
 ---
 
